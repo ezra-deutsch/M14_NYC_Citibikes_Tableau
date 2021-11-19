@@ -8,15 +8,19 @@ Kate wants to start a bike-sharing business in Des Moines, IA. We used the data 
 ### Results
 
 Checkout Stats:
+
 Checkout Stats gives us a view into the ride duration of each trip. We can see that the majority of all rides are <20 mins each. The duration also matches across genders. There is no difference who rides our bikes, or for what reason, trips are short.
 
 Bike Movement:
+
 Bikes generally do not move very far from the starting location. Or, at least, there is a "net-zero" movement effect. We do not see a migration problem where bikes travel from one side of the city and are left on the other side creating a bike location management problem.
 
 Weekday Stats:
+
 Typically, NYC Citibikes are used heavily during weekday commuting hours. Conversely, on the weekends the bikes have low, yet consistent usage during the midday. Customers tend to be Subscribers over single use customers.
 
 Weekday Stats (cont.):
+
 Here is another view of Weekday Stats by Gender. The same frequency of riding occurs across genders. Weekdays see heavy usage for commuting hours and weekends have consistent usage during the day.
 
 
